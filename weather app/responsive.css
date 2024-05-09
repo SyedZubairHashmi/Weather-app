@@ -1,0 +1,29 @@
+@media(max-width:390px){
+    .search input{
+        width: 22px;
+    
+    
+    }
+    .search button{
+       
+        width: 50px;
+       
+    
+    }
+    .col img{
+        width: 40px;
+        margin-left: 0px;
+        margin-right: 0px;
+    
+    }
+    .details{
+        padding: 0px;
+    }
+    .col{
+        margin-left: 5px;
+    }
+    .card{
+        padding: 30px 20px;
+    }
+   
+}
